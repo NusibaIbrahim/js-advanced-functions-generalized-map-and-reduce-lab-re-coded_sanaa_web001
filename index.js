@@ -7,3 +7,5 @@ function map(arr, func){
     });
     return newArr
 }
+
+
